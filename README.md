@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @devdiegocardoso
-- 👀 I’m interested in Python and Data Engineering
-- 🌱 I’m currently learning German and Camel
-- 💞️ I’m looking to collaborate on Python and Data Engineering Projects
+- 👀 I’m interested in Python, Data Engineering and Robotics
+- 🌱 I’m currently learning German
+- 📙 Master Student @ZHAW
+- 💞️ I’m looking to collaborate on Python and Robotics Projects
 - 📫 How to reach me: 
 
 e-mail: dev.diegocardoso@outlook.com 
